@@ -1,0 +1,36 @@
+# directories
+__pycache__
+CustomerBehaviorTrials/__pycache__
+LowCarbonLondon/__pycache
+
+box_plots
+
+cer_clustered_groups
+checkpoints
+checkpoints_new
+correlation_plots
+
+datasets/AMPDs
+datasets/CER
+datasets/NewLondon
+datasets/London
+
+energy_plots
+
+learning_curves
+
+results
+
+sample_graphs
+sample_predictions
+
+tensorboard
+tensorboard_new
+users_info
+
+# files
+baseline_reader.py
+cer_baseline_reader.py
+london_lstm_function.py
+london_weather.py
+plot_results.py
