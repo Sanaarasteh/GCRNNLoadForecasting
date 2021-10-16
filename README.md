@@ -16,7 +16,7 @@ patterns. Such a model mitigates the issue of former studies in neglecting the r
 Moreover, it produces powerful and informative representations suitable for load forecasting without unnecessarily
 increasing the dimensionality of the data.
 
-![GCRNN Framework](https://github.com/sanaarasteh/GCRNNLoadForecastin/images/framework.jpg)
+![GCRNN Framework](https://github.com/Sanaarasteh/GCRNNLoadForecasting/blob/master/images/framework.jpg)
 
 ### Structure of the Code and How to Use the Repository
 The repository contains several important files and directories.
