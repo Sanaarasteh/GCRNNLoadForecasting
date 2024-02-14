@@ -1,7 +1,7 @@
 # Short-Term Load Forecasting (STLF) Using Graph Convolutional Recurrent Neural Networks (GCRNN)
 
 This is the GitHub repository for the paper "Short-Term Load Forecasting Using Graph
-Convolutional Recurrent Neural Networks" (Under review in Elsevier Applied Energy). 
+Convolutional Recurrent Neural Networks" EAAI 2022. 
 
 ### Brief Model Description
 In this paper, we present a **Graph Convolutional Recurrent Neural Network (GCRNN)**, based on the integration of 
